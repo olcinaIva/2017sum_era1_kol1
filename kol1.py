@@ -21,3 +21,13 @@
 #
 #Delete these comments before commit!
 #Good luck.
+int matrix_1= Matrix(4,5,6,7)
+
+int matrix_2= Matrix(2,2,2,1)
+int i=0
+
+def sum matrix (m1,m2)
+ 
+while i<matrix_1.length
+
+	int final = matrix_1[0]* matrix_2[0]
